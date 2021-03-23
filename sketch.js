@@ -14,7 +14,7 @@ function setup() {
     // Inside the draw() function:
     // Draw parallel lines:
     // TODO: Set stroke color and weight
-    stroke(57);
+    stroke(1);
     strokeWeight(10);
     // TODO: Use a for loop to draw 10 vertical lines
     for (let posX = 0; posX < 10; posX++) {
